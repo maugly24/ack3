@@ -322,6 +322,10 @@ sub _options_block {
 # https://kotlinlang.org/
 --type-add=kotlin:ext:kt,kts
 
+# Lazarus (Free Pascal)
+# https://en.wikipedia.org/wiki/Lazarus_(IDE)
+--type-add=lazarus:ext:lpi,lpr,lfm,p,pp,pas,inc,lpk,rc,po
+
 # Less
 # http://www.lesscss.org/
 --type-add=less:ext:less
@@ -355,6 +359,10 @@ sub _options_block {
 # OCaml
 # https://ocaml.org/
 --type-add=ocaml:ext:ml,mli,mll,mly
+
+# Pascal
+# https://en.wikipedia.org/wiki/Pascal_(programming_language)
+--type-add=pascal:ext:p,pp,pas,inc
 
 # Perl
 # https://perl.org/
